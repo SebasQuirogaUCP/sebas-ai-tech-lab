@@ -1,20 +1,18 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Sebas AI Tech Lab - Laboratorio Visual de IA
 
-# Run and deploy your AI Studio app
+[![YouTube](https://img.shields.io/badge/YouTube-@SebastianQuiroga1153-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@sebastianquiroga1153)
+[![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind-3-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 
-This contains everything you need to run your app locally.
+## 🎯 Misión
 
-View your app in AI Studio: https://ai.studio/apps/temp/1
+Bienvenido al **Laboratorio Visual de Inteligencia Artificial**. Este proyecto nace de mi pasión por democratizar el conocimiento en IA y hacerlo accesible para toda la comunidad hispanohablante.
 
-## Run Locally
+Mi misión es **explicar conceptos complejos de Machine Learning y Deep Learning de forma visual e interactiva**, rompiendo la barrera de la teoría abstracta y permitiendo que cualquier persona pueda **experimentar, tocar y entender** cómo funciona la Inteligencia Artificial por dentro.
 
-**Prerequisites:**  Node.js
+## 📺 Sobre el Canal
 
+Este repositorio es el **recurso complementario oficial** de mi canal de [YouTube](https://www.youtube.com/@sebastianquiroga1153), donde publico videos educativos tecnología en innovación.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Cada episodio del laboratorio corresponde a un video del canal, permitiéndote seguir la teoría en YouTube y practicar aquí de forma interactiva.
